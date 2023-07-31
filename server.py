@@ -51,7 +51,7 @@ banner = Center.XCenter(r"""
 *  | ||_|    |_| |_|    \___/|____/     |____/|_| |_|_____|_____|_____| |      *
 *   \_\                                                              /_/       *
 *                       GENERATE MULTI-CLIENTS FUD REVERSE SHELL               *
-*                              Coded By: Machine1337                           *
+*                              Coded By: limerCode                             *
 ********************************************************************************                            
                             \n\n
 """)
